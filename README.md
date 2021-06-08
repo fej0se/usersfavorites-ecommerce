@@ -1,7 +1,7 @@
 # simple ecommerce register/login with fav/unfav
 
 
-
+#### NOTE: a new version of this project: https://github.com/fej0se/nestjs-usersfavorites-ecommerce
 
 
 
