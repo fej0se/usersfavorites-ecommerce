@@ -10,7 +10,7 @@
     "request": "^2.88.2",
     "uuidv4": "^6.2.8"
   },
-  "name": "testeaftersale",
+  "name": "usersfav",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
